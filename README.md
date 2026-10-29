@@ -169,4 +169,4 @@ This project demonstrates practical experience with:
 
 ## 📄 License
 
-This project was developed for educational and learning purposes.
+This project was developed for learning purposes.
